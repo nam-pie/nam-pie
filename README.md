@@ -1,4 +1,4 @@
-# Hi there, I'm Engr. KC 👋
+# Hi there, I'm Engr. Kevin 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cloud%20Computing%20%7C%20Emerging%20Technologies-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
