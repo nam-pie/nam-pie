@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Engr. KC 👋
 
-<!--
-**nam-pie/nam-pie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Computing%20%7C%20Emerging%20Technologies-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-Electronics%20Engineering-red?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Philippines-0038A8?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+ I am an Electronics Engineer and Electronics Technician transitioning in the world of cloud computing and emerging technologies. Outside the dev world, I do graphic designs, I play guitar (and playing piano by ear), and I also cook as well.
+
+- 🔭 **Currently Building**: Production-grade AWS infrastructure blueprints (VPC, ECS, S3, IAM) via Terraform.
+- 🛠️ **Core Philosophy**: Expanding horizons.
+- 🎯 **Career Goal**: Cloud Engineer / Data Engineer
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Cloud Providers** | AWS (VPC, EC2, S3, IAM, CloudFormation, CloudWatch, ECS) |
+| **Infrastructure as Code** | Terraform, HCL, AWS CloudFormation |
+| **Languages & Scripting** | Python, Bash, Shell Scripting, SQL |
+| **OS & Environments** | Linux (Ubuntu, Amazon Linux), Git, GitHub |
+| **Networking & Systems** | TCP/IP, DNS, Subnetting, Routing, IoT Telemetry, Systems Diagnostics |
+
+---
