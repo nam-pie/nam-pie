@@ -9,7 +9,9 @@
 ---
 
 ### ⚡ About Me
- I am an Electronics Engineer and Electronics Technician transitioning in the world of cloud computing and emerging technologies. Outside the dev world, I do graphic designs, I play guitar (and playing piano by ear), and I also cook as well.
+ I am an Electronics Engineer and Electronics Technician transitioning in the world of cloud computing and emerging technologies. I am still learning and I will never stop learning. 
+ 
+ Outside the dev world, I do graphic designs, I play guitar (and playing piano by ear), and I also cook as well.
 
 - 🔭 **Currently Building**: Production-grade AWS infrastructure blueprints (VPC, ECS, S3, IAM) via Terraform.
 - 🛠️ **Core Philosophy**: Expanding horizons.
