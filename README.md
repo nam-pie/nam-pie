@@ -28,3 +28,8 @@
 | **Networking & Systems** | TCP/IP, DNS, Subnetting, Routing, IoT Telemetry, Systems Diagnostics |
 
 ---
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,scikitlearn,postgres,aws,terraform,linux" />
+</p>
