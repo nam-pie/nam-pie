@@ -13,7 +13,7 @@
  
  Outside the dev world, I do graphic designs, I play guitar (and playing piano by ear), and I also cook as well.
 
-- 🔭 **Currently Building**: Production-grade AWS infrastructure blueprints (VPC, ECS, S3, IAM) via Terraform.
+- 🔭 **Currently Learning**: Python, SQL, Cloud Computing, Data Science, Automation
 - 🛠️ **Core Philosophy**: Expanding horizons.
 - 🎯 **Career Goal**: Cloud Engineer / Data Engineer
 
